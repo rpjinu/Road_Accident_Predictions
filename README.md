@@ -2,6 +2,9 @@
 "Road_accient_model that can predict the accient"
 # 🚧 Accident Risk Prediction using Machine Learning
 
+<img src="https://github.com/rpjinu/Road_Accident_Predictions/blob/main/Road_accident_image.png">
+
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
